@@ -1,0 +1,1 @@
+# MetanetJavaBasic02Scope
